@@ -1,6 +1,6 @@
 # CH-Crayfish.contents
 # 目录
-## 朴素贝叶斯（https://www.csdn.net/）
+## [朴素贝叶斯]（https://www.csdn.net/）
 ## 决策树
 ## 逻辑斯谛回归与最大谛模型
 ## AdaBoost
